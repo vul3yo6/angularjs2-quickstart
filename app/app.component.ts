@@ -20,7 +20,7 @@ import { HeroService } from './hero.service';
   directives: [ROUTER_DIRECTIVES],
   providers: [
     ROUTER_PROVIDERS,
-    HeroService
+    HeroService,
   ]
 })
 
